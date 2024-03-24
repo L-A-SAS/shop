@@ -1,1 +1,2 @@
 # shop
+Basic online store
