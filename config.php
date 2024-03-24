@@ -19,7 +19,7 @@ define('featured_image','imgs/featured-image.jpg');
 // Account required for checkout?
 define('account_required',true);
 // The from email that will appear on the customer's order details email
-define('mail_from','doorbaninfo@gmail.com');
+define('mail_from','d@mail.com');
 // Send mail to the customers, etc?
 define('mail_enabled',true);
 // Rewrite URL?
